@@ -1,7 +1,7 @@
 #!/bin/bash
  
- PERSON1=PAVAN
- PERSON2=SAI
+ PERSON1=mukesh
+ PERSON2=rakesh
 
 
 echo "$PERSON1:: are you  working"
